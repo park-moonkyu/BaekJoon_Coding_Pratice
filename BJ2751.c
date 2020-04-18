@@ -6,6 +6,8 @@
 //  Copyright © 2020 Mooongs. All rights reserved.
 //
 
+
+// 2751문제를 퀵소트로 구현한 코드입니다. 해당코드는 시간초과가 나옵니다.
 #include <stdio.h>
 
 void quickSort(int* data,int start,int end){
